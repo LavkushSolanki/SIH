@@ -33,7 +33,7 @@ const Home = () => {
           <div className="flex justify-between">
             <div className="flex space-x-4 items-center">
               <img
-                src="./src/assets/image/sit_logo.jpg" // Placeholder for post-specific author image
+                src="../public/image/sit_logo.jpg" // Placeholder for post-specific author image
                 alt="Author Logo"
                 className="w-10 h-10 rounded-full"
               />
