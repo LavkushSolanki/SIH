@@ -15,7 +15,7 @@ export default function Login() {
           <img
             className="h-28 w-28 rounded-full"
             // src="https://th.bing.com/th/id/R.61c18f645044601297cfbbd2a19d14f3?rik=vKM9uAYcI8nVXA&riu=http%3a%2f%2fimages.provenexpert.com%2f41%2f13%2f794e081f80cf37aeaa36482b5678%2facadmedia_full_1690216261.jpg&ehk=%2fgpUA8EfPDjKISnBlSBeV%2fdQcNAYG2U3dqOEmSGGjkQ%3d&risl=&pid=ImgRaw&r=0"
-            src="./src/assets/image/logo.jpg"
+            src="/image/logo.jpg"
           />
           <h1 className="text-[#FF8C00] font-bold text-5xl">SAMPARK</h1>
         </div>
