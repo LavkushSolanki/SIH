@@ -36,7 +36,7 @@ const Head = () => {
         {/* Logo Section */}
         <div className="flex items-center">
           <img
-            src="../public/image/logo.jpg"
+            src="/image/logo.jpg"
             alt="Logo"
             className="w-28 h-28 object-contain rounded-3xl"
           />
