@@ -6,7 +6,7 @@ const postsData = [
     edited: true,
     postText:
       "🎉 The Department of Electronics Engineering at Silicon University, India, recently hosted a one-week AICTE Training and Learning (ATAL) Academy-sponsored Faculty Development Program (FDP) on...",
-    imageUrl: "./src/assets/image/post.jpg",
+    imageUrl: "../public/image/post.jpg",
     likeCount: 190,
     likedBy: ["Soumya Ranjan Samantaray", "AICTE", "3 others"],
     actions: ["Like", "Comment", "Repost", "Send"],
@@ -18,7 +18,7 @@ const postsData = [
     edited: false,
     postText:
       "Our alumni have successfully completed their final year projects with excellent presentations! We're so proud of them!",
-    imageUrl: "./src/assets/image/alumni.jpg",
+    imageUrl: "../public/image/alumni.jpg",
     likeCount: 250,
     likedBy: ["John Doe", "Jane Smith", "5 others"],
     actions: ["Like", "Comment", "Repost", "Send"],
@@ -30,7 +30,7 @@ const postsData = [
     edited: true,
     postText:
       "We are proud to announce our collaboration with industry leaders for research projects. This is a major milestone for our university.",
-    imageUrl: "./src/assets/image/post.jpg",
+    imageUrl: "../public/image/post.jpg",
     likeCount: 300,
     likedBy: ["Alice Brown", "Bob Johnson", "10 others"],
     actions: ["Like", "Comment", "Repost", "Send"],
@@ -42,7 +42,7 @@ const postsData = [
     edited: false,
     postText:
       "Our alumni have launched their own startup, revolutionizing the field of artificial intelligence! Best of luck to them!",
-    imageUrl: "./src/assets/image/alumni.jpg",
+    imageUrl: "../public/image/alumni.jpg",
     likeCount: 120,
     likedBy: ["Tom Harris", "Emma Watson", "2 others"],
     actions: ["Like", "Comment", "Repost", "Send"],
@@ -54,7 +54,7 @@ const postsData = [
     edited: true,
     postText:
       "Our faculty members have published groundbreaking research in AI and Machine Learning. Check it out!",
-    imageUrl: "./src/assets/image/post.jpg",
+    imageUrl: "../public/image/post.jpg",
     likeCount: 220,
     likedBy: ["Steve Clark", "Jessica White", "7 others"],
     actions: ["Like", "Comment", "Repost", "Send"],
@@ -66,7 +66,7 @@ const postsData = [
     edited: false,
     postText:
       "Exciting internship opportunities are available for our students and alumni in collaboration with top tech companies!",
-    imageUrl: "./src/assets/image/alumni.jpg",
+    imageUrl: "../public/image/alumni.jpg",
     likeCount: 180,
     likedBy: ["Michael Scott", "Pam Beesly", "8 others"],
     actions: ["Like", "Comment", "Repost", "Send"],
@@ -78,7 +78,7 @@ const postsData = [
     edited: true,
     postText:
       "We are thrilled to welcome new faculty members to our Computer Science Department. We look forward to the innovations they'll bring!",
-    imageUrl: "./src/assets/image/post.jpg",
+    imageUrl: "../public/image/post.jpg",
     likeCount: 310,
     likedBy: ["Dwight Schrute", "Jim Halpert", "9 others"],
     actions: ["Like", "Comment", "Repost", "Send"],
@@ -90,7 +90,7 @@ const postsData = [
     edited: false,
     postText:
       "Alumni Spotlight: Hear the inspiring journey of one of our successful graduates. Their story is an inspiration to current students!",
-    imageUrl: "./src/assets/image/alumni.jpg",
+    imageUrl: "../public/image/alumni.jpg",
     likeCount: 280,
     likedBy: ["Andy Bernard", "Oscar Martinez", "4 others"],
     actions: ["Like", "Comment", "Repost", "Send"],
@@ -102,7 +102,7 @@ const postsData = [
     edited: true,
     postText:
       "Our students participated in the National Level Robotics competition and secured top positions. Congratulations to all participants!",
-    imageUrl: "./src/assets/image/post.jpg",
+    imageUrl: "../public/image/post.jpg",
     likeCount: 500,
     likedBy: ["Stanley Hudson", "Phyllis Vance", "15 others"],
     actions: ["Like", "Comment", "Repost", "Send"],
@@ -114,7 +114,7 @@ const postsData = [
     edited: false,
     postText:
       "Alumni Meet: We had a fantastic time reconnecting with our alumni at this year’s gathering. Thank you to all who attended!",
-    imageUrl: "./src/assets/image/alumni.jpg",
+    imageUrl: "../public/image/alumni.jpg",
     likeCount: 260,
     likedBy: ["Karen Filippelli", "Ryan Howard", "12 others"],
     actions: ["Like", "Comment", "Repost", "Send"],
